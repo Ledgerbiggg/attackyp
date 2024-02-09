@@ -1,0 +1,104 @@
+mode: dev
+
+# 编程导航面试并发数量
+InterviewAttack: 1
+# 编程导航简历并发数量
+BiographicalNotesAttack: 1
+# 老鱼简历图床并发
+DrawingBedAttack: 1
+# 攻击周期
+AttackCycle: "*/2 * * * * *"
+# 循环次数
+LoopCount: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
